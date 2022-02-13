@@ -1,0 +1,4 @@
+#define K_CURSES_BACKSPACE 8
+#define K_CURSES_ALT_ESC 27
+#define K_CURSES_ENTER 10
+
