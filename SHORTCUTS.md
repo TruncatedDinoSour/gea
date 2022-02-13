@@ -1,6 +1,6 @@
 # Normal mode
 
-- Go into insert mode: `a`
+- Go into add mode: `a`
 - Quit: `q`
 - Go to right: `p`
 - Go to left: `j`
